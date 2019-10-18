@@ -69,7 +69,7 @@ class first
 {
 	static void run()
 	{
-		System.out.println("i am pravin bhadadaaaaa");
+		System.out.println("i am pravin");
 	}
 }
 class second extends first
